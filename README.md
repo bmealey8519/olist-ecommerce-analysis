@@ -45,7 +45,7 @@ Health Beauty and Watches & Gifts came out on top by a decent margin. The full t
 | Sports Leisure | $988,049 |
 | Computers Accessories | $911,954 |
 
-Sao Paulo (SP) dominates by state, almost 3x the revenue of Rio de Janeiro in second place. That kind of concentration is worth paying attention to from a logistics and market expansion standpoint.
+Sao Pãulo (SP) dominates by state, almost 3x the revenue of Rio de Janeiro in second place. That kind of concentration is worth paying attention to from a logistics and market expansion standpoint.
 
 | State | Revenue |
 |-------|---------|
